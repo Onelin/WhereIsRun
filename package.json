@@ -1,0 +1,14 @@
+{
+  "name": "where-is-run",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Onein",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-merge": "^5.8.0"
+  }
+}
